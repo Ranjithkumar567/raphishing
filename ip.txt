@@ -1,0 +1,396 @@
+IP                   : 103.158.43.16
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : St.Thomas Mount, India, Asia
+GeoLocation(lat, lon): 13.005056, 80.1933043
+Currency             : Indian Rupee
+
+IP                   : 103.158.43.16
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : St.Thomas Mount, India, Asia
+GeoLocation(lat, lon): 13.005056, 80.1933043
+Currency             : Indian Rupee
+
+IP                   : 152.58.197.222
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Hyderabad, India, Asia
+GeoLocation(lat, lon): 17.385044, 78.486671
+Currency             : Indian Rupee
+
+IP                   : 152.58.197.222
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Hyderabad, India, Asia
+GeoLocation(lat, lon): 17.385044, 78.486671
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 106.216.196.5
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 9; vivo 1921 Build/PKQ1.190302.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/5.9.3.81
+Version              : 9;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : QR Scanner Android
+Version              : 
+Browser              : Unknown Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : QR Scanner Android
+Version              : 
+Browser              : Unknown Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 9; vivo 1921 Build/PKQ1.190302.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/5.9.3.81
+Version              : 9;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : QR Scanner Android
+Version              : 
+Browser              : Unknown Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; U; Android 9; en-us; RMX1833 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36 HeyTapBrowser/15.10.4.1.1
+Version              : Android
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+IP                   : 106.216.192.5
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Hyderabad, India, Asia
+GeoLocation(lat, lon): 17.385044, 78.486671
+Currency             : Indian Rupee
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/24.0 Chrome/117.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : QR Scanner Android
+Version              : 
+Browser              : Unknown Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/123.0.6312.52 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
+IP                   : 103.232.241.199
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Vijayawada, India, Asia
+GeoLocation(lat, lon): 16.5061743, 80.6480153
+Currency             : Indian Rupee
+
